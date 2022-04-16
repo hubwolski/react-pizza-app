@@ -1,0 +1,24 @@
+.pizza-container {
+    border: 1px solid black;
+    display: inline-flex;
+    margin: 100px 0;
+    padding: 50px;
+}
+
+.con-item {
+    margin: 0 50px;
+    padding: 10px;
+}
+
+.size-select {
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+}
+
+.size-btn {
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+    margin: 10px;
+}
